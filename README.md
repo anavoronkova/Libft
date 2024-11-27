@@ -79,5 +79,3 @@ A library of common C functions used in the Core Curriculum of the 42 school.
 - **`void ft_copytab(void **dest, void **src)`**: Copies `src` to `dest`.
 - **`int ft_min(int a, int b)`**: Returns the minimum of `a` and `b`.
 - **`int ft_max(int a, int b)`**: Returns the maximum of `a` and `b`.
-
-
